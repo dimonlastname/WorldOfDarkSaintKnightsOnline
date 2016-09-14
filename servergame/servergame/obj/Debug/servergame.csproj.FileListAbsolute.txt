@@ -1,0 +1,7 @@
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\servergame\servergame\bin\Debug\servergame.exe.config
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\servergame\servergame\bin\Debug\servergame.exe
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\servergame\servergame\bin\Debug\servergame.pdb
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\servergame\servergame\bin\Debug\MySql.Data.dll
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\servergame\servergame\obj\Debug\servergame.csprojResolveAssemblyReference.cache
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\servergame\servergame\obj\Debug\servergame.exe
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\servergame\servergame\obj\Debug\servergame.pdb

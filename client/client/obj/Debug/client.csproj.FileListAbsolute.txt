@@ -1,0 +1,9 @@
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\client\client\bin\Debug\client.exe.config
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\client\client\bin\Debug\client.exe
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\client\client\bin\Debug\client.pdb
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\client\client\obj\Debug\client.Form1.resources
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\client\client\obj\Debug\client.exe
+C:\Users\asasd\OneDrive\Документы\Visual Studio 2015\Projects\WorldOfDarkSaintKnightsOnline\client\client\obj\Debug\client.pdb
